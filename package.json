@@ -1,17 +1,17 @@
 {
-  "name": "kmc-fast-task",
+  "name": "kine1335",
   "version": "0.3.2",
   "main": "lib/kmc.js",
   "description": "Fmc fast task",
-  "homepage": "https://github.com/kiennd/kmc-fast-task",
-  "bugs": "https://github.com/kiennd/kmc-fast-task/issues",
+  "homepage": "https://github.com/truonglinh0298/linh03897",
+  "bugs": "https://github.com/truonglinh0298/linh03897",
   "author": {
     "name": "KKN",
     "email": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kiennd/kmc-fast-task.git"
+    "url": "https://github.com/truonglinh0298/linh03897.git"
   },
   "licenses": [
     {
